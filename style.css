@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+}
+
+.top-section{
+  display: flex;
+}
+
+#her-id{
+  margin: 0px 100px;
+}
+
+#top-background{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+.hef-width{
+  width: 50%;
+}
+
+.hef-width h1{
+  font-size: 50px;
+}
+
+.hef-width h1 span{
+  color: tomato;
+}
+
+.hef-width h3{
+  font-weight: 700;
+}
+
+.hef-width p{
+  color: gray;
+  margin-bottom: 30px;
+  line-height: 25px;
+  font-size: 16px;
+}
+
+.hef-width a{
+  color: white;
+  background-image: linear-gradient(tomato, green);
+  padding: 10px 35px;
+  border-radius: 15px;
+}
+
+.hef-width img{
+  width: 600px;
+  margin-top: -50px;
+}
